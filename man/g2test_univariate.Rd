@@ -59,10 +59,10 @@ The degrees of freedom of each test.
 
 \references{
 Tsagris M. (2017). Conditional independence test for categorical data using Poisson log-linear model.
-Journal of Data Science, 15(2):347-356.
+Journal of Data Science, 15(2): 347--356.
 
-Tsamardinos, I. and Borboudakis, G. (2010). Permutation testing improves Bayesian network learning.
-In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 322-337). Springer Berlin Heidelberg
+Tsamardinos I. and Borboudakis G. (2010). Permutation testing improves Bayesian network learning.
+In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 322--337). Springer Berlin Heidelberg.
 }
 
 \author{

@@ -1,14 +1,16 @@
-\name{Skeleton of the FEDHC algorithm using the distance correlation}
+\name{Skeleton of the and the MMHC and the FEDHC algorithm using the distance correlation}
+\alias{dcor.mmhc.skel}
 \alias{dcor.fedhc.skel}
 \title{
-The skeleton of a Bayesian network produced by the FEDHC algorithm using the distance correlation
+The skeleton of a Bayesian network produced by the MMHC or the FEDHC algorithm using the distance correlation
 }
 
 \description{
-The skeleton of a Bayesian network produced by the FEDHC algorithm using the distance correlation.
+The skeleton of a Bayesian network produced by the MMHC or the FEDHC algorithm using the distance correlation.
 }
 
 \usage{
+dcor.mmhc.skel(x, max_k = 3, alpha = 0.05, ini.pvalue = NULL, B = 999)
 dcor.fedhc.skel(x, alpha = 0.05, ini.stat = NULL, R = NULL)
 }
 
@@ -18,11 +20,21 @@ A numerical matrix with the variables. If you have a data.frame (i.e. categorica
 into a matrix using \code{\link{data.frame.to_matrix}}. Note, that for the categorical case data,
 the numbers must start from 0. No missing data are allowed.
 }
+\item{max_k}{
+The maximum conditioning set to use in the conditional indepedence test (see Details).
+Integer, default value is 3.
+}
 \item{alpha}{
 The significance level (suitable values in (0, 1)) for assessing the p-values. Default value is 0.05.
 }
+\item{ini.pvalue}{
+If the initial p-values (univariate associations) are available, pass them through this parameter.
+}
 \item{ini.stat}{
 If the initial test statistics (univariate associations) are available, pass them through this parameter.
+}
+\item{B}{
+The number of permutations to execute to compute the p-value of the distance correlation.
 }
 \item{R}{
 If the correlation matrix is available, pass it here.
@@ -30,6 +42,8 @@ If the correlation matrix is available, pass it here.
 }
 
 \details{
+The max_k option: the maximum size of the conditioning set to use in the conditioning independence test. Larger values provide more accurate results, at the cost of higher computational times. When the sample size is small (e.g., \eqn{<50} observations) the max_k parameter should be 3 for example, otherwise the conditional independence test may not be able to provide reliable results.
+
 As in FEDHC the first phase consists of a variable selection procedure,
 the FBED algortihm (Borboudakis and Tsamardinos, 2019) which is performed
 though by utilizing the distance correlation (Szekely et al., 2007,
@@ -64,13 +78,16 @@ Tsagris M. (2022). The FEDHC Bayesian Network Learning Algorithm.
 Mathematics, 10(25): 2604.
 
 Szekely G.J., Rizzo M.L. and Bakirov N.K. (2007). Measuring and Testing Independence
-by Correlation of Distances. Annals of Statistics, 35(6):2769-2794.
+by Correlation of Distances. Annals of Statistics, 35(6): 2769--2794.
 
 Szekely G.J. and Rizzo M. L. (2014). Partial distance correlation with methods for dissimilarities.
-Annals of Statistics, 42(6), 2382-2412.
+Annals of Statistics, 42(6): 2382--2412.
 
 Huo X. and Szekely G.J. (2016). Fast computing for distance covariance.
-Technometrics, 58(4), 435-447.
+Technometrics, 58(4): 435--447.
+
+Tsamardinos I., Brown E.L. and Aliferis F.C. (2006). The max-min hill-climbing Bayesian network
+structure learning algorithm. Machine Learning, 65(1): 31--78.
 }
 
 \author{

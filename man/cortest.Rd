@@ -40,7 +40,7 @@ equal to "rho", the test statistic and the $a/2\%$ lower and upper confidence li
 
 \references{
 Tsagris M. (2021). A new scalable Bayesian network learning algorithm with applications to economics.
-Computational Economics 57(1): 341-367.
+Computational Economics, 57(1): 341--367.
 }
 
 \author{

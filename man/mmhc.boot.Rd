@@ -89,10 +89,10 @@ The duration of the algorithm.
 
 \references{
 Tsamardinos I., Brown E.L. and Aliferis F.C. (2006). The max-min hill-climbing Bayesian network
-structure learning algorithm. Machine Learning, 65(1): 31-78.
+structure learning algorithm. Machine Learning, 65(1): 31--78.
 
 Tsagris M. (2021). A new scalable Bayesian network learning algorithm with applications to economics.
-Computational Economics, 57(1):341-367.
+Computational Economics, 57(1): 341--367.
 }
 
 \author{

@@ -39,15 +39,15 @@ The outlier free data.
 \references{
 Rousseeuw P. J. and Leroy A. M. (1987) Robust Regression and Outlier Detection. Wiley.
 
-Rousseeuw P. J. and van Driessen K. (1999) A fast algorithm for the minimum covariance determinant estimator. Technometrics 41: 212-223.
+Rousseeuw P. J. and van Driessen K. (1999) A fast algorithm for the minimum covariance determinant estimator. Technometrics, 41: 212--223.
 
-Pison G., Van Aelst S., and Willems G. (2002) Small Sample Corrections for LTS and MCD, Metrika 55: 111-123.
+Pison G., Van Aelst S., and Willems G. (2002) Small Sample Corrections for LTS and MCD. Metrika, 55: 111--123.
 
-Hubert M., Rousseeuw P. J. and Verdonck, T. (2012) A deterministic algorithm for robust location and scatter. Journal of Computational and Graphical Statistics 21: 618-637.
+Hubert M., Rousseeuw P. J. and Verdonck, T. (2012) A deterministic algorithm for robust location and scatter. Journal of Computational and Graphical Statistics, 21: 618--637.
 
-Cerioli A. (2010). Multivariate outlier detection with high-breakdown estimators.Journal of the American Statistical Association 105(489): 147-156.
+Cerioli A. (2010). Multivariate outlier detection with high-breakdown estimators. Journal of the American Statistical Association, 105(489): 147--156.
 
-Cerchiello P. and Giudici P. (2016). Big data analysis for financial risk management. Journal of Big Data 3(1): 18.
+Cerchiello P. and Giudici P. (2016). Big data analysis for financial risk management. Journal of Big Data, 3(1): 18.
 }
 
 \author{

@@ -64,13 +64,13 @@ Tsamardinos I. and Brown L.E. Bounding the False Discovery Rate in Local Bayesia
 AAAI, 2008.
 
 Triantafillou S., Tsamardinos I. and Roumpelaki A. (2014). Learning neighborhoods of high confidence in
-constraint-based causal discovery. In European Workshop on Probabilistic Graphical Models, pp. 487-502.
+constraint-based causal discovery. In European Workshop on Probabilistic Graphical Models, pp. 487--502.
 
 Storey J.D. and Tibshirani R. (2003). Statistical significance for genome-wide experiments. Proceedings of
-the National Academy of Sciences, 100: 9440-9445.
+the National Academy of Sciences, 100: 9440--9445.
 
 Benjamini Y. and Hochberg Y. (1995). Controlling the false discovery rate: a practical and powerful approach
-to multiple testing. Journal of the Royal Statistical Society Series B, 57(1), 289-300.
+to multiple testing. Journal of the Royal Statistical Society Series B, 57(1): 289--300.
 
 Spirtes P.,  Glymour C. and Scheines R. (2001). Causation, Prediction, and Search. The MIT Press,
 Cambridge, MA, USA, 3nd edition.

@@ -27,8 +27,8 @@ A logical value, TRUE if the matrix represents a DAG and FALSE otherwise.
 }
 
 \references{
-Chickering, D.M. (1995). A transformational characterization of equivalent Bayesian network structures.
-Proceedings of the 11th Conference on Uncertainty in Artificial Intelligence, Montreal, Canada, 87-98.
+Chickering D.M. (1995). A transformational characterization of equivalent Bayesian network structures.
+Proceedings of the 11th Conference on Uncertainty in Artificial Intelligence, Montreal, Canada, 87--98.
 }
 
 \author{

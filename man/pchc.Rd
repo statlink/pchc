@@ -92,14 +92,15 @@ The duration of the algorithm.
 
 \references{
 Tsagris M. (2021). A new scalable Bayesian network learning algorithm with applications to economics.
-Computational Economics, 57(1):341-367.
+Computational Economics, 57(1): 341--367.
 
 Spirtes P.,  Glymour C. and Scheines R. (2001). Causation, Prediction, and Search. The MIT Press, Cambridge, MA, USA, 3nd edition.
 
-Tsamardinos I. and Borboudakis G. (2010) Permutation Testing Improves Bayesian Network Learning. In Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2010, 322-337.
+Tsamardinos I. and Borboudakis G. (2010) Permutation Testing Improves Bayesian Network Learning. 
+In Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2010, 322--337.
 
 Tsamardinos I., Brown E.L. and Aliferis F.C. (2006). The max-min hill-climbing Bayesian network
-structure learning algorithm. Machine Learning, 65(1): 31-78.
+structure learning algorithm. Machine Learning, 65(1): 31--78.
 }
 
 \author{

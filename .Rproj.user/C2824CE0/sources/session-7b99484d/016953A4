@@ -1,26 +1,26 @@
 {
-    "id": "66A4CD09",
-    "path": "~/GitHub/pchc/NAMESPACE",
-    "project_path": "NAMESPACE",
-    "type": "r_namespace",
+    "id": "016953A4",
+    "path": "~/GitHub/pchc/man/mmhc.Rd",
+    "project_path": "man/mmhc.Rd",
+    "type": "r_doc",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1695922762148.0,
+    "created": 1696919239327.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "27,0",
-        "scrollLine": "7"
+        "cursorPosition": "98,32",
+        "scrollLine": "93"
     },
     "folds": "",
-    "lastKnownWriteTime": 1695922766,
+    "lastKnownWriteTime": 1696919442,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1695922766504,
+    "last_content_update": 1696919442,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -37,10 +37,10 @@ A matrix with two rows. In each row the X2 or G2 test statistic, its p-value and
 
 \references{
 Tsagris M. (2021). A new scalable Bayesian network learning algorithm with applications to economics.
-Computational Economics 57(1): 341-367.
+Computational Economics, 57(1): 341--367.
 
 Tsagris M. (2017). Conditional independence test for categorical data using Poisson log-linear model.
-Journal of Data Science, 15(2): 347-356.
+Journal of Data Science, 15(2): 347--356.
 }
 
 \author{

@@ -27,7 +27,8 @@ The estimated cutoff limit above which an edge can be deemed significant.
 }
 
 \references{
-Scutari M. and Nagarajan R. (2013). Identifying significant edges in graphical models of molecular networks. Artifficial Intelligence in Medicine, 57: 207-217.
+Scutari M. and Nagarajan R. (2013). Identifying significant edges in graphical models of molecular networks. 
+Artifficial Intelligence in Medicine, 57: 207--217.
 }
 
 \author{

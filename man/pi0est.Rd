@@ -29,10 +29,11 @@ The estimated proporiton of null p-values is estimated the algorithm by Storey a
 }
 
 \value{
-The estimated proportion of non significant (null) p-values. In the paper Storey and Tibshirani mention that the estimate of pi0 is with lambda=1, but in their R code they use the highest value of lambda and thus we do the same here.
+The estimated proportion of non significant (null) p-values. In the paper Storey and Tibshirani mention that the estimate of pi0 is with lambda=1, 
+but in their R code they use the highest value of lambda and thus we do the same here.
 }
 \references{
-Storey J.D. and Tibshirani R. (2003). Statistical significance for genome-wide experiments. Proceedings of the National Academy of Sciences, 100: 9440-9445.
+Storey J.D. and Tibshirani R. (2003). Statistical significance for genome-wide experiments. Proceedings of the National Academy of Sciences, 100: 9440--9445.
 }
 
 \author{

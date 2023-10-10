@@ -83,10 +83,10 @@ Spirtes P.,  Glymour C. and Scheines R. (2001). Causation, Prediction, and Searc
 The MIT Press, Cambridge, MA, USA, 3nd edition.
 
 Tsagris M. (2021). A new scalable Bayesian network learning algorithm with applications to economics. 
-Computational Economics, 57(1):341-367.
+Computational Economics, 57(1): 341--367.
 
 Tsamardinos I. and Borboudakis G. (2010) Permutation Testing Improves Bayesian Network Learning. 
-In Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2010. 322-337.
+In Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2010. 322--337.
 }
 
 \author{

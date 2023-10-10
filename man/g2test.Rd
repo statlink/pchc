@@ -65,10 +65,10 @@ The column or variable of the data.
 
 \references{
 Tsagris M. (2021). A new scalable Bayesian network learning algorithm with applications to economics.
-Computational Economics 57(1): 341-367.
+Computational Economics, 57(1): 341--367.
 
-Tsamardinos, I., & Borboudakis, G. (2010). Permutation testing improves Bayesian network learning.
-In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 322-337). Springer Berlin Heidelberg
+Tsamardinos I., and Borboudakis G. (2010). Permutation testing improves Bayesian network learning.
+In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 322--337). Springer Berlin Heidelberg.
 }
 
 \author{
