@@ -20,9 +20,9 @@ dcor.mmhc.skel <- function(x, max_k = 3, alpha = 0.05, ini.pvalue = NULL, B = 99
   for ( i in 1:(d - 1) ) {
     for ( j in i:d )  {
       ini.pvalue[i, j] <- dcov::dcor.test(x[, i], x[, j], R = B, type = "U")$p.values
-      ntests <- ntests + d * (d - 1) / 2
     }
   }
+  ntests <- ntests + d * (d - 1) / 2
   ini.pvalue <- ini.pvalue + t(ini.pvalue)
 
   for (k in 1:d) {
@@ -42,8 +42,6 @@ dcor.mmhc.skel <- function(x, max_k = 3, alpha = 0.05, ini.pvalue = NULL, B = 99
         j <- 1
         while ( length(vars) > 0  &  j <= dim(cand)[2] ) {
           for (vim in vars)   pval2[vim] <- dcov::pdcor.test(x[, vim], x[, k], x[, cand[, j]], R = B, type = "U" )$p.values
-          ## sp <- Rfast::g2Test(x, vim, k, cand, dc )
-          ## pval2[vim] <- pchisq(sp$statistic, sp$df, lower.tail = FALSE, log.p = TRUE)
           ntests <- ntests + length(vars)
           pval[vars] <- pmax(pval[vars], pval2[vars])
           ide <- which(pval[vars] < la)

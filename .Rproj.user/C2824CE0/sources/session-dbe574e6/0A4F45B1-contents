@@ -78,16 +78,16 @@ Tsagris M. (2022). The FEDHC Bayesian Network Learning Algorithm.
 Mathematics, 10(25): 2604.
 
 Szekely G.J., Rizzo M.L. and Bakirov N.K. (2007). Measuring and Testing Independence
-by Correlation of Distances. Annals of Statistics, 35(6): 2769-2794.
+by Correlation of Distances. Annals of Statistics, 35(6): 2769--2794.
 
 Szekely G.J. and Rizzo M. L. (2014). Partial distance correlation with methods for dissimilarities.
-Annals of Statistics, 42(6): 2382-2412.
+Annals of Statistics, 42(6): 2382--2412.
 
 Huo X. and Szekely G.J. (2016). Fast computing for distance covariance.
-Technometrics, 58(4): 435-447.
+Technometrics, 58(4): 435--447.
 
 Tsamardinos I., Brown E.L. and Aliferis F.C. (2006). The max-min hill-climbing Bayesian network
-structure learning algorithm. Machine Learning 65(1): 31-78.
+structure learning algorithm. Machine Learning, 65(1): 31--78.
 }
 
 \author{
