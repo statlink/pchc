@@ -77,7 +77,7 @@ Tsagris M. (2019). Bayesian network learning with the PC algorithm: an improved 
 Applied Artificial Intelligence, 33(2): 101--123.
 
 Tsagris M., Borboudakis G., Lagani V. and Tsamardinos I. (2018). Constraint-based Causal Discovery with Mixed Data.
-International Journal of Data Science and Analytics, 6: 19-30.
+International Journal of Data Science and Analytics, 6: 19--30.
 
 Spirtes P.,  Glymour C. and Scheines R. (2001). Causation, Prediction, and Search. The MIT Press, Cambridge, MA, USA, 3nd edition.
 

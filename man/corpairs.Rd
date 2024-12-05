@@ -44,7 +44,7 @@ statistic and the (logged) p-value.
 
 \references{
 Lambert Diane (1992). Zero-Inflated Poisson Regression, with an Application to Defects in
-Manufacturing. Technometrics. 34(1):1--14.
+Manufacturing. Technometrics. 34(1): 1--14.
 
 Johnson Norman L., Kotz Samuel and Kemp Adrienne W. (1992). Univariate Discrete
 Distributions (2nd ed.). Wiley

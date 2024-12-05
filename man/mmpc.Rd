@@ -53,10 +53,7 @@ Boolean value for the activation of the backward/symmetry correction phase. This
 }
 
 \details{
-The MMPC function implements the MMPC algorithm as presented in
-"Tsamardinos, Brown and Aliferis. The max-min hill-climbing
-Bayesian network structure learning algorithm"
-http://www.dsl-lab.org/supplements/mmhc_paper/paper_online.pdf
+The MMPC function implements the MMPC algorithm as presented in Tsamardinos, Brown and Aliferis (2006).
 }
 
 \value{

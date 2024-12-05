@@ -38,7 +38,7 @@ The MIT Press, Cambridge, MA, USA, 3nd edition.
 Tsamardinos I., Borboudakis G. (2010) Permutation Testing Improves Bayesian Network Learning.
 In Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2010. 322--337.
 
-Tsamardinos I., Brown E.L. and Aliferis F.C. (2006). The max-min hill-climbing Bayesian network structure learning algorithm. Machine learning 65(1):31-78.
+Tsamardinos I., Brown E.L. and Aliferis F.C. (2006). The max-min hill-climbing Bayesian network structure learning algorithm. Machine learning 65(1): 31--78.
 
 Tsagris M. (2017). Conditional independence test for categorical data using Poisson log-linear model. Journal of Data Science, 15(2): 347--356.
 

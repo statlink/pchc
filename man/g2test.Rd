@@ -68,7 +68,8 @@ Tsagris M. (2021). A new scalable Bayesian network learning algorithm with appli
 Computational Economics, 57(1): 341--367.
 
 Tsamardinos I., and Borboudakis G. (2010). Permutation testing improves Bayesian network learning.
-In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 322--337). Springer Berlin Heidelberg.
+In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 322--337). 
+Springer Berlin Heidelberg.
 }
 
 \author{
