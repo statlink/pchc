@@ -53,7 +53,7 @@ R implementation and documentation: Michail Tsagris \email{mtsagris@uoc.gr}.
 %}
 
 \seealso{
-\code{ \link{pchc}, \link{pc.skel}
+\code{ \link{pchc}, \link{mmhc}, \link{fedhc}
 }
 }
 
