@@ -6,6 +6,8 @@
 ~%2FGitHub%2Fpchc%2FR%2Ffedhc.skel.R="D32F2B09"
 ~%2FGitHub%2Fpchc%2FR%2Fmmhc.skel.R="B4F0D127"
 ~%2FGitHub%2Fpchc%2FR%2Fmmhc.skel.boot.R="43C02CCF"
+~%2FGitHub%2Fpchc%2Fman%2Fbnmat.Rd="C203D288"
+~%2FGitHub%2Fpchc%2Fman%2Fcat.tests.Rd="48A829E9"
 ~%2FGitHub%2Fpchc%2Fman%2Fdcor.fedhc.skel.Rd="17BDC02F"
 ~%2FGitHub%2Fpchc%2Fman%2Ffedhc.Rd="7AA87E6D"
 ~%2FGitHub%2Fpchc%2Fman%2Ffedhc.boot.Rd="563B1AF2"
@@ -18,3 +20,4 @@
 ~%2FGitHub%2Fpchc%2Fman%2Fmmpc.Rd="69570151"
 ~%2FGitHub%2Fpchc%2Fman%2Fpc.sel.Rd="E99EE797"
 ~%2FGitHub%2Fpchc%2Fman%2Fpchc-package.Rd="F044193A"
+~%2FGitHub%2Fpchc%2Fman%2Fpchc.Rd="9919DD79"

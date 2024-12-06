@@ -19,8 +19,8 @@ tabu = 10, score = "bic-g", blacklist = NULL, whitelist = NULL, B = 200, ncores 
 
 \arguments{
 \item{x}{
-A numerical matrix with the variables. If you have a data.frame (i.e. categorical data) turn them into a matrix
-using \code{\link{data.frame.to_matrix}}. Note, that for the categorical case data, the numbers must start from 0. No missing data are allowed.
+A numerical matrix with the variables. If you have a data.frame (i.e. categorical data) turn them into a matrix. 
+Note, that for the categorical case data, the numbers must start from 0. No missing data are allowed.
 }
 \item{method}{
 If you have continuous data, you can choose either "pearson" or "spearman". If you have categorical data though, this must be "cat". In this case, make sure the minimum value of each variable is zero. The \code{\link{g2test}} and the relevant functions work that way.

@@ -14,8 +14,7 @@ rmcd(x, alpha = NULL)
 
 \arguments{
 \item{x}{
-A numerical matrix with the variables. If you have a data.frame (i.e. categorical data) turn them into a matrix
-using \code{\link{data.frame.to_matrix}}.
+A numerical matrix with the variables. If you have a data.frame (i.e. categorical data) turn them into a matrix.
 }
 \item{alpha}{
 A number controlling the size of the subsets over which the determinant is minimized; roughly alpha*n observations are used for computing the determinant. Values between 0.5 and 1 are allowed.

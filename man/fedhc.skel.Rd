@@ -16,7 +16,7 @@ ini.stat = NULL, R = NULL)
 \arguments{
 \item{x}{
 A numerical matrix with the variables. If you have a data.frame (i.e. categorical data) turn them
-into a matrix using \code{\link{data.frame.to_matrix}}. Note, that for the categorical case data,
+into a matrix. Note, that for the categorical case data,
 the numbers must start from 0. No missing data are allowed.
 }
 \item{method}{
